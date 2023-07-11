@@ -1,2 +1,2 @@
-# codeclause_portfolio_Edukondalu
+# Edunet_portfolio_Edukondalu
 codeclause task 1
